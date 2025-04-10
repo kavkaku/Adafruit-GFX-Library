@@ -8,7 +8,6 @@
 #include "WProgram.h"
 #endif
 #include "gfxfont.h"
-
 #include <Adafruit_I2CDevice.h>
 #include <Adafruit_SPIDevice.h>
 
